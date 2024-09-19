@@ -1,4 +1,3 @@
-
 # Pedra Papel e Tesoura:
 
 ![Passo a Passo](https://github.com/user-attachments/assets/8f037750-d938-4d92-b2c8-f0d6644d5099)
