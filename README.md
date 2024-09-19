@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-Instruções do jogo:
-=======
+
+# Pedra Papel e Tesoura:
+
 ![Passo a Passo](https://github.com/user-attachments/assets/8f037750-d938-4d92-b2c8-f0d6644d5099)
 ![Passo a Passo 2](https://github.com/user-attachments/assets/908551b4-1689-4492-b1cd-d3dd1d13a144)
 ![Passo a Passo 3](https://github.com/user-attachments/assets/4cbc7527-ed8f-4c04-96a9-ad7631e343b9)
 
->>>>>>> f103ebd93c71b4130845c89de7354d09821fec9c
+
 
 
 # Instruções do jogo:
